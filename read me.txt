@@ -1,0 +1,8 @@
+This is a 2d vector field generator.
+To genrate a vector field you have to open the code and enter the desire vector field equation in ai + bj format 
+where 'a' and 'b' any equation you want.
+equation = ''  <---- enter the your equation here
+
+vector field equation of dipole and qudrapole is already saved to access that you have to enter
+"di_pole" for di-pole vector field and "quad_pole" for quadra-pole without quotation marks 
+equation =   <----  here
