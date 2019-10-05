@@ -6,3 +6,7 @@ equation = ''  <---- enter the your equation here
 vector field equation of dipole and qudrapole is already saved to access that you have to enter
 "di_pole" for di-pole vector field and "quad_pole" for quadra-pole without quotation marks 
 equation =   <----  here
+
+colour variation is off you can activate it 
+#colour variation
+col_var = False   <---- change it to true
